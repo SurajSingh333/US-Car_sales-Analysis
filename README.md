@@ -1,6 +1,6 @@
 # Car_sales
 
-This is the random dataset I was working on, and this dataset has incomplete and irregular data, this data is not ideal data to create a visual report, but I just wanted to work with some random, unstructured, non-normalized, and huge data, due to such irregularities I was not completely able to perform predictive analysis because dates and months were not maintained in regular interval of time, there was only one data available i.e price in a thousand.
+This is the random dataset I was working on, and this dataset(https://www.kaggle.com/sachinsachin/car-sales) has incomplete and irregular data, this data is not ideal data to create a visual report, but I just wanted to work with some random, unstructured, non-normalized, and huge data, due to such irregularities I was not completely able to perform predictive analysis because dates and months were not maintained in regular interval of time, there was only one data available i.e price in a thousand.
 
 
 My approach was, first of all, to normalize the data, create lookup tables and data tables for each, calendar lookup, company lookup, data table, customer lookup, customer data table, dealer lookup, dealer data table, territory lookup table, and performed Data modeling. Created Relationships b/w lookup table and data table keeping in mind downward filter flow(& cardinality i.e. one to many) 
