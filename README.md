@@ -1,4 +1,4 @@
-This is the random dataset I was working on, and this dataset(https://www.kaggle.com/sachinsachin/car-sales) has incomplete and irregular data, this data is not ideal data to create a visual report, but I just wanted to work with some random, unstructured, non-normalized, and huge data, due to such irregularities I was not completely able to perform predictive analysis because dates and months were not maintained in regular interval of time, there was only one data available i.e price in a thousand.
+This is the random dataset I was working on, and this dataset(https://www.kaggle.com/sachinsachin/car-sales) has incomplete and irregular data,this data is not an ideal data to create a visual report, but I just wanted to work with some random, unstructured, un-normalized, and huge data, due to such irregularities I was not completely able to perform predictive analysis because dates and months were not maintained in regular interval of time.
 
 My approach was, 
 
