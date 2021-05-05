@@ -17,3 +17,5 @@ First of all,
 -Used all the key components Visual (Bar chart, Line chart, Donuts Chart, Tree-Map, etc.)which can together provide a holistic view in the form of Dashboard. Create custom measures as Explicit measures.
 
 -Tried to create Stories for visual sequences to build the narrative and add context.
+
+YouTube Video Link :- https://youtu.be/4wqBd18ELkw
